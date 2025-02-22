@@ -24,8 +24,8 @@ you lose! 😱<br>
 4.> Correct guesses reveal the letter in the word.<br>
 5.> Incorrect guesses result in a part of the hangman being drawn.<br>
 6.> The game continues until:<br>
-     . The player correctly guesses the word 🎉<br>
-     . The player runs out of chances and loses 💀<br>
+        a) The player correctly guesses the word 🎉<br>
+        b) The player runs out of chances and loses 💀<br>
 
 # 💡 Future Improvements<br>
 1.> Adding difficulty levels 🔝<br>
